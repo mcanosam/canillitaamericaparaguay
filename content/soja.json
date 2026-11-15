@@ -1,0 +1,180 @@
+{
+  "type": "living_story",
+  "status": "active",
+  "isFiction": false,
+  "sections": [],
+  "beat": {
+    "role": "Cobertura",
+    "name": "Redacción Tu Canillita"
+  },
+  "id": "soja_campana",
+  "category": "Agro",
+  "topic": "agro",
+  "title": "Soja: cosecha récord de 11,5 millones de toneladas y una siembra con costos altos",
+  "subtitle": "Paraguay cerró la mejor campaña de su historia y arrancó la 2026/27 con mejores precios pero márgenes ajustados",
+  "lastUpdated": "2026-11-14T07:00:00-03:00",
+  "eventDate": "2026-11-11",
+  "readingTime": 4,
+  "shortSummary": "Paraguay cerró la campaña sojera con un récord de 11,5 millones de toneladas y lanzó la 2026/27. Capeco proyecta otro récord de exportación para este año: hasta septiembre se habían embarcado 7,9 millones de toneladas. Al 11 de noviembre el ritmo exportador del complejo soja era el segundo más alto del último quinquenio. La siembra arranca con mejores precios pero costos altos.",
+  "whatsappSummary": "🌱 *Soja: récord de 11,5 millones de toneladas*\nParaguay cerró la mejor campaña de su historia y lanzó la 2026/27.\nHasta septiembre se embarcaron 7,9 millones de toneladas; Capeco proyecta otro récord anual.\nLa siembra arranca con mejores precios pero costos altos.",
+  "radioHeadline": "La soja, que viene de la mejor campaña de la historia.",
+  "radioSummary": "Paraguay cerró la campaña sojera con once coma cinco millones de toneladas. Es récord. Y sobre eso lanzó la campaña dos mil veintiséis, dos mil veintisiete. En exportación la película es parecida. Hasta septiembre se habían embarcado siete coma nueve millones de toneladas, y Capeco proyecta otro récord anual. Al once de noviembre, el ritmo exportador del complejo soja era el segundo más alto de los últimos cinco años. Ahora, el productor no mira solo el volumen. La siembra de esta campaña arranca con mejores precios que la anterior, pero también con costos altos, y ahí es donde se define si un récord de toneladas se convierte en un buen año o solamente en un buen titular.",
+  "articleBody": [
+    {
+      "type": "paragraph",
+      "text": "Paraguay cerró la mejor campaña sojera de su historia: 11,5 millones de toneladas. Sobre ese resultado lanzó la campaña 2026/27, con el foco puesto —según los propios gremios— en la productividad."
+    },
+    {
+      "type": "heading",
+      "text": "La exportación acompaña"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hasta septiembre se habían embarcado 7,9 millones de toneladas, encaminando al país a un nuevo récord de exportación. Capeco lo proyectó formalmente en octubre. Al 11 de noviembre, el ritmo exportador del complejo soja marcaba el segundo nivel más alto del último quinquenio."
+    },
+    {
+      "type": "heading",
+      "text": "Lo que el récord no dice"
+    },
+    {
+      "type": "paragraph",
+      "text": "La siembra 2026/27 arranca con mejores precios que la campaña anterior, pero con costos altos. Esa es la ecuación que define el año del productor, y no se resuelve con el dato de toneladas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay además un factor que no depende de la chacra: cómo sale la mercadería. Con el río Paraguay en niveles bajos, el costo de cada tonelada embarcada sube, y el margen del récord se discute en el puerto tanto como en el campo."
+    }
+  ],
+  "confirmedFacts": [
+    {
+      "fact": "Paraguay cerró la campaña sojera con una cosecha récord de 11,5 millones de toneladas y lanzó la campaña 2026/27.",
+      "date": "2026-09-18",
+      "sourceId": "nacional_soja"
+    },
+    {
+      "fact": "Capeco proyectó un nuevo récord de exportación de soja para 2026.",
+      "date": "2026-10-15",
+      "sourceId": "plus_capeco"
+    },
+    {
+      "fact": "Hasta septiembre de 2026 se habían embarcado 7,9 millones de toneladas.",
+      "date": "2026-10-10",
+      "sourceId": "economia_79"
+    },
+    {
+      "fact": "Al 11 de noviembre de 2026, el ritmo exportador del complejo soja marcaba el segundo nivel más alto del último quinquenio.",
+      "date": "2026-11-11",
+      "sourceId": "agro_ritmo"
+    },
+    {
+      "fact": "La siembra 2026/27 arranca con mejores precios que la campaña anterior pero con costos altos.",
+      "date": "2026-10-31",
+      "sourceId": "aps_siembra"
+    }
+  ],
+  "pendingQuestions": [
+    "Si la campaña 2026/27 sostiene el nivel de la anterior o el récord fue un techo.",
+    "Cuánto se come el costo logístico del margen, con el río en niveles bajos.",
+    "Cómo evolucionan los precios internacionales durante la cosecha."
+  ],
+  "whyItMatters": "La soja es la que paga buena parte de las divisas del país. Un récord de toneladas cambia el número macro, pero lo que decide si hay inversión el año que viene es el margen por hectárea, y ese se define entre el precio internacional, el costo del insumo y lo que sale cobrar el flete cuando el río está bajo.",
+  "timeline": [
+    {
+      "date": "2026-07-13",
+      "title": "Récord de 5 millones exportadas",
+      "text": "La soja vuelve a empujar la economía con un récord parcial de embarques.",
+      "sourceId": "tribuna_5m"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Cierra la campaña récord",
+      "text": "11,5 millones de toneladas y lanzamiento de la campaña 2026/27.",
+      "sourceId": "nacional_soja"
+    },
+    {
+      "date": "2026-10-15",
+      "title": "Capeco proyecta otro récord",
+      "text": "La proyección de exportación para 2026 vuelve a marcar máximos.",
+      "sourceId": "plus_capeco"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "El segundo mejor ritmo en cinco años",
+      "text": "El complejo soja sostiene el nivel exportador pese a la logística.",
+      "sourceId": "agro_ritmo"
+    }
+  ],
+  "suggestedQuestions": [
+    "¿Cómo viene la campaña de soja?",
+    "¿Cuánto exportó Paraguay este año?",
+    "¿Cómo están los precios para el productor?"
+  ],
+  "image": {
+    "src": "",
+    "alt": "Camiones cargando soja en una planta de acopio del este paraguayo",
+    "credit": "",
+    "pending": "Falta la foto de archivo del Grupo"
+  },
+  "sources": [
+    {
+      "id": "agro_ritmo",
+      "name": "El ritmo exportador del complejo soja muestra firmeza, el segundo nivel más alto del quinquenio",
+      "type": "press",
+      "publisher": "Noticias Agropecuarias",
+      "publishedAt": "2026-11-11",
+      "url": "https://www.noticiasagropecuarias.com/2026/11/11/el-ritmo-exportador-del-complejo-soja-muestra-firmeza-el-segundo-nivel-mas-alto/"
+    },
+    {
+      "id": "nacional_soja",
+      "name": "Paraguay lanzó campaña sojera 2026/27, tras cosecha récord de 11,5 millones de toneladas",
+      "type": "press",
+      "publisher": "El Nacional (Paraguay)",
+      "publishedAt": "2026-09-18",
+      "url": "https://elnacional.com.py/economia/paraguay-lanzo-campana-sojera-202627-tras-cosecha-record-115-millones-toneladas-n111504"
+    },
+    {
+      "id": "plus_capeco",
+      "name": "Capeco proyecta un nuevo récord de exportación de soja para Paraguay en 2026",
+      "type": "press",
+      "publisher": "Revista Plus",
+      "publishedAt": "2026-10-15",
+      "url": "https://revistaplus.com.py/2026/10/15/capeco-proyecta-un-nuevo-record-de-exportacion-de-soja-para-paraguay-en-2026/"
+    },
+    {
+      "id": "economia_79",
+      "name": "Paraguay se encamina a un nuevo récord de exportación de soja en 2026, con 7,9 millones de toneladas embarcadas hasta septiembre",
+      "type": "press",
+      "publisher": "Economía.com.py",
+      "publishedAt": "2026-10-10",
+      "url": "https://economia.com.py/paraguay-se-encamina-a-un-nuevo-record-de-exportacion-de-soja-en-2026-con-79-millones-de-toneladas-embarcadas-hasta-septiembre/"
+    },
+    {
+      "id": "aps_siembra",
+      "name": "La siembra 2026-2027 arranca entre mejores precios y costos altos",
+      "type": "press",
+      "publisher": "APS",
+      "publishedAt": "2026-10-31",
+      "url": "https://www.aps.org.py/en/la-siembra-2026-2027-arranca-entre-mejores-precios-y-costos-altos/"
+    },
+    {
+      "id": "tribuna_5m",
+      "name": "La soja vuelve a impulsar economía con récord de 5.000.000 toneladas exportadas",
+      "type": "press",
+      "publisher": "La Tribuna",
+      "publishedAt": "2026-07-13",
+      "url": "https://www.latribuna.com.py/negocios/economia/2026/07/13/la-soja-vuelve-a-impulsar-economia-con-record-de-5000000-toneladas-exportadas/"
+    }
+  ],
+  "origen": {
+    "principal": {
+      "marca": "A24 Paraguay",
+      "formato": "texto"
+    },
+    "integra": [
+      {
+        "marca": "América Paraguay",
+        "formato": "video"
+      }
+    ]
+  }
+}

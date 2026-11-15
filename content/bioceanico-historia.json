@@ -1,0 +1,230 @@
+{
+  "type": "living_story",
+  "status": "active",
+  "isFiction": false,
+  "sections": [
+    {
+      "id": "tramo_puente",
+      "number": 1,
+      "name": "El puente sobre el río Paraguay",
+      "from": "Carmelo Peralta",
+      "to": "Porto Murtinho (Brasil)",
+      "lengthKm": 1.3,
+      "status": "partial",
+      "statusLabel": "Márgenes unidas, habilitación pendiente",
+      "detail": "Unos 1.300 metros financiados por Itaipú Binacional. En junio de 2026 se ejecutaron los últimos trabajos para unir las dos márgenes. La habilitación estaba prevista para 2026.",
+      "keywords": ["el puente", "puente de la bioceanica", "carmelo peralta", "porto murtinho", "union de margenes"],
+      "sourceId": "margenes"
+    },
+    {
+      "id": "tramo_accesos",
+      "number": 2,
+      "name": "Los accesos del lado paraguayo",
+      "from": "Carmelo Peralta",
+      "to": "cabecera del puente",
+      "status": "partial",
+      "statusLabel": "23% de avance (29 de septiembre de 2026)",
+      "detail": "Es la parte que convierte una estructura sobre el río en una ruta por la que pasan camiones. A fines de septiembre de 2026 marcaba un 23% de avance: muy por detrás del puente al que tiene que conectarse.",
+      "keywords": ["los accesos", "accesos", "acceso al puente", "23"],
+      "sourceId": "accesos23"
+    },
+    {
+      "id": "tramo_lote3",
+      "number": 3,
+      "name": "PY15, lote 3",
+      "from": "Pozo Hondo",
+      "to": "Misión La Paz",
+      "lengthKm": 55,
+      "status": "partial",
+      "statusLabel": "47,5% de ejecución física",
+      "detail": "A cargo de CDD Construcciones. El Ministerio de Obras Públicas informó que las lluvias intensas y la alta humedad del terreno obligaron a reprogramar los trabajos.",
+      "keywords": ["lote 3", "lote tres", "pozo hondo", "mision la paz", "py15", "py 15"],
+      "sourceId": "lote3"
+    },
+    {
+      "id": "tramo_chaco",
+      "number": 4,
+      "name": "Tercer tramo del corredor",
+      "from": "Mariscal Estigarribia",
+      "to": "Pozo Hondo",
+      "lengthKm": 224,
+      "status": "partial",
+      "statusLabel": "Cuatro lotes en ejecución",
+      "detail": "Unos 224 kilómetros divididos en cuatro lotes, con una inversión cercana a los 354 millones de dólares financiada principalmente por Fonplata, con apoyo del BID. Es el tramo que cruza el Chaco, donde construir es caro y lento.",
+      "keywords": ["tercer tramo", "mariscal estigarribia", "el chaco", "chaco", "cuatro lotes"],
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "id": "tramo_argentina",
+      "number": 5,
+      "name": "El puente con Argentina",
+      "from": "Pozo Hondo",
+      "to": "Misión La Paz (Argentina)",
+      "status": "blocked",
+      "statusLabel": "Proyectado, sin obra",
+      "detail": "Es la puerta hacia el oeste y, por ahí, hacia los puertos chilenos. Queda como obra futura: está proyectado, no está en construcción.",
+      "keywords": ["puente con argentina", "segundo puente", "hacia chile", "puertos chilenos"],
+      "sourceId": "ccpb_corredor"
+    }
+  ],
+  "beat": {
+    "role": "Cobertura",
+    "name": "Redacción Tu Canillita"
+  },
+  "id": "bioceanico_historia",
+  "category": "Infraestructura",
+  "topic": "bioceanico",
+  "title": "Bioceánica: por qué un país sin mar construye una ruta hacia el Pacífico",
+  "subtitle": "Más de 1.100 millones de dólares, cuatro países y una apuesta a cambiar la geografía económica de Paraguay",
+  "lastUpdated": "2026-11-14T07:00:00-03:00",
+  "eventDate": "2026-05-26",
+  "readingTime": 6,
+  "shortSummary": "El Corredor Bioceánico conecta el Atlántico con el Pacífico atravesando Brasil, Paraguay, Argentina y Chile. La inversión supera los 1.100 millones de dólares. Del lado paraguayo la pieza es la Ruta PY15, que cruza el Chaco, más el puente sobre el río Paraguay financiado por Itaipú. La promesa: acortar tiempos y costos para exportar hacia Asia.",
+  "whatsappSummary": "🗺️ *Bioceánica: la historia completa*\nCuatro países, más de US$1.100 millones y una ruta del Atlántico al Pacífico.\nDel lado paraguayo: la PY15 cruzando el Chaco y el puente de 1.300 m financiado por Itaipú.\nLa apuesta es exportar a Asia más barato y más rápido.",
+  "radioHeadline": "Y el contexto, para entender de qué estamos hablando cuando decimos Bioceánica.",
+  "radioSummary": "Paraguay es uno de los dos países de Sudamérica sin salida al mar. Todo lo que exporta sale por río o por puertos de otros. Eso tiene un precio y se paga en cada embarque. El Corredor Bioceánico es el intento de cambiar esa ecuación. Conecta el Atlántico con el Pacífico cruzando cuatro países: Brasil, Paraguay, Argentina y Chile. La inversión total supera los mil cien millones de dólares. Del lado paraguayo, la pieza central es la ruta quince, la Ruta Bioceánica, que atraviesa el Chaco. Y el puente sobre el río Paraguay, de mil trescientos metros, entre Carmelo Peralta y Porto Murtinho, que financia Itaipú Binacional. El tercer tramo, entre Mariscal Estigarribia y Pozo Hondo, son doscientos veinticuatro kilómetros en cuatro lotes, con unos trescientos cincuenta y cuatro millones de dólares, financiados sobre todo por Fonplata con apoyo del Banco Interamericano. La idea de fondo, en palabras del entonces presidente Santiago Peña, era convertir a Paraguay en un centro logístico regional.",
+  "articleBody": [
+    {
+      "type": "paragraph",
+      "text": "Paraguay es uno de los dos países de Sudamérica sin salida al mar. Todo lo que produce y vende afuera sale por río o por puertos ajenos, y eso se paga en cada embarque. El Corredor Bioceánico es el intento de cambiar esa ecuación."
+    },
+    {
+      "type": "heading",
+      "text": "Qué es"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una ruta que conecta el océano Atlántico con el Pacífico atravesando cuatro países: Brasil, Paraguay, Argentina y Chile. La inversión supera los 1.100 millones de dólares."
+    },
+    {
+      "type": "paragraph",
+      "text": "Del lado paraguayo, la pieza es la Ruta PY15 —la Ruta Bioceánica— que cruza el Chaco, una región de baja densidad, caminos de tierra y distancias largas donde construir es caro y lento."
+    },
+    {
+      "type": "heading",
+      "text": "Las piezas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Puente de la Bioceánica, de unos 1.300 metros, une Carmelo Peralta con Porto Murtinho y lo financia Itaipú Binacional. Es la conexión con Brasil y con el Atlántico."
+    },
+    {
+      "type": "paragraph",
+      "text": "El tercer tramo de la ruta une Mariscal Estigarribia con Pozo Hondo: unos 224 kilómetros en cuatro lotes, con cerca de 354 millones de dólares financiados principalmente por Fonplata, con apoyo del BID."
+    },
+    {
+      "type": "paragraph",
+      "text": "Y queda proyectado un segundo puente, con Argentina, entre Pozo Hondo y Misión La Paz. Esa es la puerta hacia el oeste y, por ahí, hacia los puertos chilenos."
+    },
+    {
+      "type": "heading",
+      "text": "Qué promete"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tiempos y costos logísticos más bajos para exportar hacia Asia. El entonces presidente Santiago Peña lo describió como la apuesta para convertir al país en \"un centro logístico regional\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una promesa que depende de que el corredor funcione entero. Un puente sin accesos, o un tramo de ruta sin terminar, deja la cadena cortada en el punto más caro: el último."
+    }
+  ],
+  "confirmedFacts": [
+    {
+      "fact": "El Corredor Bioceánico conecta el Atlántico con el Pacífico atravesando Brasil, Paraguay, Argentina y Chile, con una inversión superior a 1.100 millones de dólares.",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "fact": "Del lado paraguayo la ruta es la PY15, o Ruta Bioceánica, que atraviesa el Chaco.",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "fact": "El Puente de la Bioceánica unirá Carmelo Peralta con Porto Murtinho, tendrá unos 1.300 metros y lo financia Itaipú Binacional.",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "fact": "Está proyectado un segundo puente, con Argentina, entre Pozo Hondo y Misión La Paz.",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "fact": "Santiago Peña describió el corredor como una apuesta para convertir a Paraguay en \"un centro logístico regional\".",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    }
+  ],
+  "pendingQuestions": [
+    "Cuánto se reduce efectivamente el costo de exportar una vez que el corredor opere completo.",
+    "Si el puente con Argentina pasa de proyecto a obra, y con qué financiamiento.",
+    "Qué capacidad de carga real absorbe la ruta del Chaco en temporada alta."
+  ],
+  "whyItMatters": "Es la obra que más puede cambiar la posición de Paraguay en el comercio regional. Y es, al mismo tiempo, la clase de proyecto que se mide en décadas: lo que se decide hoy sobre un tramo del Chaco define cómo exporta el país durante los próximos treinta años.",
+  "timeline": [
+    {
+      "date": "2026-05-26",
+      "title": "El proyecto, en números",
+      "text": "Más de 1.100 millones de dólares, cuatro países y la PY15 como columna vertebral del tramo paraguayo.",
+      "sourceId": "ccpb_corredor"
+    }
+  ],
+  "suggestedQuestions": [
+    "¿Qué es el Corredor Bioceánico?",
+    "¿Por qué es importante para Paraguay?",
+    "¿Quién lo financia?"
+  ],
+  "image": {
+    "src": "",
+    "alt": "Mapa del Corredor Bioceánico entre el Atlántico y el Pacífico",
+    "credit": "",
+    "pending": "Falta la infografía del Grupo"
+  },
+  "sources": [
+    {
+      "id": "ccpb_corredor",
+      "name": "El corredor que cambiará la geografía económica",
+      "type": "press",
+      "publisher": "Cámara de Comercio Paraguayo Brasileña",
+      "publishedAt": "2026-05-26",
+      "url": "https://www.ccpb.org.py/2026/05/26/el-corredor-para-cambiar-la-geografia-economica/"
+    },
+    {
+      "id": "margenes",
+      "name": "Ejecutan últimos trabajos para la unión de márgenes en el puente del Corredor Bioceánico",
+      "type": "press",
+      "publisher": "La Nación (Paraguay)",
+      "publishedAt": "2026-06-23",
+      "url": "https://www.lanacion.com.py/negocios/2026/06/23/ejecutan-ultimos-trabajos-para-la-union-de-margenes-en-el-puente-del-corredor-bioceanico/"
+    },
+    {
+      "id": "accesos23",
+      "name": "Accesos al Puente de la Bioceánica alcanzan 23% de avance en Carmelo Peralta",
+      "type": "press",
+      "publisher": "La Nación (Paraguay)",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.lanacion.com.py/negocios/2026/09/29/accesos-al-puente-de-la-bioceanica-alcanzan-23-de-avance-en-carmelo-peralta/"
+    },
+    {
+      "id": "lote3",
+      "name": "Corredor Bioceánico Capricornio: la PY 15 registra un avance del 47,5% en Paraguay",
+      "type": "press",
+      "publisher": "FM Alba",
+      "publishedAt": "2026-10-20",
+      "url": "https://fmalba.com.ar/corredor-bioceanico-capricornio-la-py-15-registra-un-avance-del-475-en-paraguay/"
+    }
+  ],
+  "origen": {
+    "principal": {
+      "marca": "A24 Paraguay",
+      "formato": "texto"
+    },
+    "integra": [
+      {
+        "marca": "América Paraguay",
+        "formato": "video"
+      }
+    ]
+  }
+}

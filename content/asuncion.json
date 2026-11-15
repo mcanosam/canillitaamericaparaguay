@@ -1,0 +1,183 @@
+{
+  "type": "living_story",
+  "status": "active",
+  "isFiction": false,
+  "sections": [],
+  "beat": {
+    "role": "Cobertura",
+    "name": "Redacción Tu Canillita"
+  },
+  "id": "asuncion_basura",
+  "category": "Municipio",
+  "topic": "municipio",
+  "title": "Asunción: la nueva intendenta recibió 7,2 millones de dólares de deuda",
+  "subtitle": "Soledad Núñez asumió el 3 de noviembre y dice que no hay combustible ni para la recolección ni para el bacheo",
+  "lastUpdated": "2026-11-14T07:00:00-03:00",
+  "eventDate": "2026-11-11",
+  "readingTime": 4,
+  "shortSummary": "Soledad Núñez asumió la Municipalidad de Asunción el 3 de noviembre y el 11 informó el estado de las cuentas: una deuda de 7,2 millones de dólares y sin combustible para la recolección de basura ni para el bacheo. La crisis no es nueva: la ciudad viene arrastrando problemas de recolección durante todo el año y una causa por desagües pluviales que los vecinos pagaron y no se ejecutaron.",
+  "whatsappSummary": "🏛️ *Asunción: 7,2 millones de dólares de deuda*\nSoledad Núñez asumió el 3 de noviembre. El 11 informó que no hay combustible para recolección de basura ni para bacheo.\nLa crisis de recolección viene de todo el año, y hay una causa por desagües pluviales pagados y no ejecutados.",
+  "radioHeadline": "Asunción, y las cuentas que encontró la nueva intendencia.",
+  "radioSummary": "Soledad Núñez asumió la Municipalidad de Asunción el tres de noviembre. Ocho días después puso los números sobre la mesa: siete coma dos millones de dólares de deuda, y sin combustible para la recolección de basura ni para el bacheo. El problema no arrancó ahora. Durante todo el año la ciudad volvió varias veces a tener calles con basura acumulada, incluso después de un alquiler millonario y de la compra de camiones nuevos. Y hay otra causa de fondo, la de los desagües pluviales: vecinos que pagaron por obras que no se ejecutaron. En junio se informaba que iban cuatro coma cinco millones de dólares abonados por obras fantasma. Con la temporada de lluvias encima, eso dejó de ser un expediente y pasó a ser un riesgo: en octubre se alertó por posibles inundaciones que podrían afectar a unas tres mil familias en la capital.",
+  "articleBody": [
+    {
+      "type": "paragraph",
+      "text": "Soledad Núñez asumió la Municipalidad de Asunción el 3 de noviembre. El 11 hizo público el estado de las cuentas, y el número ordenó el resto: 7,2 millones de dólares de deuda recibida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo más inmediato no es el monto sino lo que impide. Según la intendencia, no hay combustible para la recolección de basura ni para el bacheo. Dos servicios que una ciudad no puede suspender sin que se note en la misma semana."
+    },
+    {
+      "type": "heading",
+      "text": "Un problema que viene de antes"
+    },
+    {
+      "type": "paragraph",
+      "text": "La crisis de recolección atravesó todo 2026. En marzo la ciudad volvió a tener calles con basura acumulada. En julio seguía igual, pese a un alquiler millonario de equipos y a la compra de camiones nuevos."
+    },
+    {
+      "type": "heading",
+      "text": "Los desagües que se pagaron y no están"
+    },
+    {
+      "type": "paragraph",
+      "text": "En paralelo corre otra causa: la de los desagües pluviales. En junio se informó que los vecinos ya habían pagado 4,5 millones de dólares por obras que no se ejecutaron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Con la temporada de lluvias esa deuda deja de ser contable. En octubre se alertó por posibles inundaciones que podrían afectar a unas 3.000 familias en Asunción, con foco en los barrios donde los desagües quedaron inconclusos."
+    }
+  ],
+  "confirmedFacts": [
+    {
+      "fact": "Soledad Núñez asumió la Municipalidad de Asunción el 3 de noviembre de 2026.",
+      "date": "2026-11-03",
+      "sourceId": "abc_asume"
+    },
+    {
+      "fact": "El 11 de noviembre informó que recibió una deuda de 7,2 millones de dólares y que no hay combustible para la recolección de basura ni para el bacheo.",
+      "date": "2026-11-11",
+      "sourceId": "abc_deuda"
+    },
+    {
+      "fact": "La crisis de recolección se repitió durante 2026: en marzo y en julio la ciudad volvió a tener calles con basura acumulada, pese a un alquiler millonario de equipos y a la compra de camiones nuevos.",
+      "date": "2026-07-16",
+      "sourceId": "abc_basura"
+    },
+    {
+      "fact": "En junio de 2026 se informó que los vecinos ya habían pagado 4,5 millones de dólares por obras de desagüe pluvial no ejecutadas.",
+      "date": "2026-06-22",
+      "sourceId": "abc_desague"
+    },
+    {
+      "fact": "En octubre se alertó por posibles inundaciones que podrían afectar a unas 3.000 familias en Asunción.",
+      "date": "2026-10-20",
+      "sourceId": "territorio_inund"
+    }
+  ],
+  "pendingQuestions": [
+    "Cómo se financia el combustible para retomar la recolección y el bacheo.",
+    "Qué pasa con los 4,5 millones de dólares pagados por desagües que no se ejecutaron.",
+    "Si los barrios con desagües inconclusos llegan a la temporada de lluvias con alguna obra.",
+    "Qué plan hay para la deuda de 7,2 millones más allá del diagnóstico."
+  ],
+  "whyItMatters": "La basura y el agua son las dos cosas por las que una ciudad se juzga todos los días. Asunción llega a la temporada de lluvias con las dos sin resolver y con una intendencia que recién asumió. Lo que se decida en las próximas semanas se va a ver en la calle, no en un informe.",
+  "timeline": [
+    {
+      "date": "2026-03-03",
+      "title": "Vuelve la basura a las calles",
+      "text": "La crisis de recolección deja otra vez calles acumuladas en la capital.",
+      "sourceId": "abc_basura"
+    },
+    {
+      "date": "2026-06-22",
+      "title": "Desagües pagados que no están",
+      "text": "Los vecinos llevan abonados 4,5 millones de dólares por obras pluviales no ejecutadas.",
+      "sourceId": "abc_desague"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "Alerta por inundaciones",
+      "text": "Se advierte que unas 3.000 familias podrían verse afectadas en Asunción.",
+      "sourceId": "territorio_inund"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "Asume Soledad Núñez",
+      "text": "Nueva intendencia en la capital.",
+      "sourceId": "abc_asume"
+    },
+    {
+      "date": "2026-11-11",
+      "title": "7,2 millones de deuda",
+      "text": "La intendencia informa el estado de las cuentas: sin combustible para recolección ni bacheo.",
+      "sourceId": "abc_deuda"
+    }
+  ],
+  "suggestedQuestions": [
+    "¿Qué pasa con la basura en Asunción?",
+    "¿Cuánta deuda recibió la intendencia?",
+    "¿Qué pasó con los desagües?"
+  ],
+  "image": {
+    "src": "",
+    "alt": "Calles de Asunción con residuos acumulados durante la crisis de recolección",
+    "credit": "",
+    "pending": "Falta la foto de archivo del Grupo"
+  },
+  "sources": [
+    {
+      "id": "abc_deuda",
+      "name": "Crisis en Asunción: Sole Núñez afronta deuda de US$ 7 millones",
+      "type": "press",
+      "publisher": "ABC Color",
+      "publishedAt": "2026-11-11",
+      "url": "https://www.abc.com.py/nacionales/2026/11/11/soledad-nunez-recibio-us-72-millones-de-deuda-no-hay-combustible-para-recoleccion-de-basuras-ni-bacheo/"
+    },
+    {
+      "id": "abc_asume",
+      "name": "Soledad Núñez asume la Municipalidad de Asunción",
+      "type": "press",
+      "publisher": "ABC Color",
+      "publishedAt": "2026-11-03",
+      "url": "https://www.abc.com.py/politica/2026/11/03/soledad-nunez-asume-hoy-en-asuncion-el-juramento-tras-la-devastacion-colorada/"
+    },
+    {
+      "id": "abc_basura",
+      "name": "Asunción sigue inundada de basura, pese a millonario alquiler y compra de nuevos camiones",
+      "type": "press",
+      "publisher": "ABC Color",
+      "publishedAt": "2026-07-16",
+      "url": "https://www.abc.com.py/nacionales/2026/07/16/asuncion-sigue-inundada-de-basura-pese-a-millonario-alquiler-y-compra-de-nuevos-camiones/"
+    },
+    {
+      "id": "abc_desague",
+      "name": "Desagüe pluvial en Asunción: en 2026, vecinos ya pagaron US$ 4,5 millones por obras fantasma",
+      "type": "press",
+      "publisher": "ABC Color",
+      "publishedAt": "2026-06-22",
+      "url": "https://www.abc.com.py/nacionales/2026/06/22/desague-pluvial-en-asuncion-en-2026-vecinos-ya-pagaron-us-45-millones-por-obras-fantasma/"
+    },
+    {
+      "id": "territorio_inund",
+      "name": "Paraguay alerta por posibles inundaciones que podrían afectar a 3.000 familias en Asunción",
+      "type": "press",
+      "publisher": "El Territorio",
+      "publishedAt": "2026-10-20",
+      "url": "https://www.elterritorio.com.ar/noticias/2026/10/20/921674-paraguay-alerta-por-posibles-inundaciones-que-podrian-afectar-a-3000-familias-en-asuncion"
+    }
+  ],
+  "origen": {
+    "principal": {
+      "marca": "América Paraguay",
+      "formato": "video"
+    },
+    "integra": [
+      {
+        "marca": "A24 Paraguay",
+        "formato": "texto"
+      }
+    ]
+  }
+}

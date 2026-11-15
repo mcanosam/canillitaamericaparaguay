@@ -1,0 +1,195 @@
+{
+  "type": "living_story",
+  "status": "active",
+  "isFiction": false,
+  "sections": [],
+  "beat": {
+    "role": "Cobertura",
+    "name": "Redacción Tu Canillita"
+  },
+  "id": "bioceanico_actualidad",
+  "category": "Infraestructura",
+  "topic": "bioceanico",
+  "title": "Bioceánica: el puente se une pero los accesos van por el 23%",
+  "subtitle": "La habilitación estaba prevista para este año. El tramo del Chaco avanza más lento de lo planeado",
+  "lastUpdated": "2026-11-14T07:00:00-03:00",
+  "eventDate": "2026-09-29",
+  "readingTime": 5,
+  "shortSummary": "El Puente de la Bioceánica, que une Carmelo Peralta con Porto Murtinho, ya ejecutó los últimos trabajos de unión de márgenes. Pero los accesos del lado paraguayo marcaban un 23% de avance a fines de septiembre, y el lote 3 de la PY15, en el Chaco, llegaba al 47,5% con demoras por las lluvias. La habilitación estaba prevista para 2026 y quedan seis semanas.",
+  "whatsappSummary": "🌉 *Bioceánica: el puente sí, los accesos no*\nLa unión de márgenes ya se ejecutó, pero los accesos en Carmelo Peralta iban por el 23% a fines de septiembre.\nEl lote 3 de la PY15 llega al 47,5%, demorado por lluvias.\nLa habilitación estaba prevista para 2026.",
+  "radioHeadline": "Y la Bioceánica, que avanza en una punta y se atrasa en la otra.",
+  "radioSummary": "El puente está. En junio se ejecutaron los últimos trabajos para unir las dos márgenes entre Carmelo Peralta y Porto Murtinho: mil trescientos metros sobre el río Paraguay, financiados por Itaipú Binacional. Pero un puente sin accesos no sirve, y ahí la cosa va más despacio. A fines de septiembre los accesos del lado paraguayo marcaban veintitrés por ciento de avance. Y más adentro del Chaco, el lote tres de la ruta quince, entre Pozo Hondo y Misión La Paz, llega al cuarenta y siete coma cinco por ciento. Son unos cincuenta y cinco kilómetros dentro del tramo Mariscal Estigarribia–Pozo Hondo. El Ministerio de Obras Públicas explicó que las lluvias intensas y la humedad del terreno obligaron a reprogramar. La habilitación del puente estaba prevista para este año. Quedan seis semanas.",
+  "articleBody": [
+    {
+      "type": "paragraph",
+      "text": "El Corredor Bioceánico tiene dos relojes y no marcan la misma hora. El del puente va bien. El de todo lo que tiene que conectarse con el puente, no tanto."
+    },
+    {
+      "type": "heading",
+      "text": "El puente"
+    },
+    {
+      "type": "paragraph",
+      "text": "En junio se ejecutaron los últimos trabajos para la unión de márgenes del Puente de la Bioceánica, que une Carmelo Peralta con Porto Murtinho, en Brasil. Son unos 1.300 metros, financiados por Itaipú Binacional. Su habilitación estaba prevista para 2026."
+    },
+    {
+      "type": "heading",
+      "text": "Los accesos"
+    },
+    {
+      "type": "paragraph",
+      "text": "A fines de septiembre, las obras de acceso del lado paraguayo, en Carmelo Peralta, alcanzaban un 23% de avance. Es la parte que convierte una estructura sobre el río en una ruta por la que efectivamente pasan camiones."
+    },
+    {
+      "type": "heading",
+      "text": "El Chaco, más lento"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tercer tramo del corredor une Mariscal Estigarribia con Pozo Hondo: unos 224 kilómetros divididos en cuatro lotes, con una inversión cercana a los 354 millones de dólares, financiada principalmente por Fonplata con apoyo del BID."
+    },
+    {
+      "type": "paragraph",
+      "text": "El lote 3, entre Pozo Hondo y Misión La Paz, en Boquerón, alcanzó un 47,5% de ejecución física según el Ministerio de Obras Públicas. Son unos 55 kilómetros a cargo de CDD Construcciones. Las lluvias intensas y la alta humedad del terreno obligaron a reprogramar los trabajos."
+    },
+    {
+      "type": "heading",
+      "text": "Qué falta además del asfalto"
+    },
+    {
+      "type": "paragraph",
+      "text": "El corredor no es solo ruta. Incluye una nueva subestación de la ANDE, mejoras en el aeropuerto de Carmelo Peralta, drenajes, señalización y pasos de fauna. Y queda pendiente, como obra futura, el puente con Argentina entre Pozo Hondo y Misión La Paz."
+    }
+  ],
+  "confirmedFacts": [
+    {
+      "fact": "En junio de 2026 se ejecutaron los últimos trabajos para la unión de márgenes del Puente de la Bioceánica.",
+      "date": "2026-06-23",
+      "sourceId": "margenes"
+    },
+    {
+      "fact": "A fines de septiembre de 2026, los accesos al puente en Carmelo Peralta alcanzaban un 23% de avance.",
+      "date": "2026-09-29",
+      "sourceId": "accesos23"
+    },
+    {
+      "fact": "El lote 3 de la PY15, entre Pozo Hondo y Misión La Paz, alcanzó un 47,5% de ejecución física. Son unos 55 kilómetros a cargo de CDD Construcciones, con demoras por lluvias intensas y humedad del terreno.",
+      "date": "2026-10-20",
+      "sourceId": "lote3"
+    },
+    {
+      "fact": "El tercer tramo une Mariscal Estigarribia con Pozo Hondo: unos 224 kilómetros en cuatro lotes, con inversión cercana a 354 millones de dólares, financiada por Fonplata con apoyo del BID.",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "fact": "El Puente de la Bioceánica tendrá unos 1.300 metros, lo financia Itaipú Binacional y su habilitación estaba prevista para 2026.",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "fact": "El corredor incluye una subestación nueva de la ANDE, mejoras en el aeropuerto de Carmelo Peralta, drenajes, señalización y pasos de fauna.",
+      "date": "2026-05-26",
+      "sourceId": "ccpb_corredor"
+    }
+  ],
+  "pendingQuestions": [
+    "Si el puente se habilita efectivamente en 2026 con los accesos al 23%.",
+    "Cuándo termina el lote 3 de la PY15, hoy en 47,5% y reprogramado por lluvias.",
+    "Qué pasa con el puente proyectado con Argentina, entre Pozo Hondo y Misión La Paz.",
+    "Si las obras complementarias —subestación, aeropuerto, drenajes— acompañan los plazos de la ruta.",
+    "Cuánto baja efectivamente el costo logístico de exportar hacia Asia una vez abierto el corredor."
+  ],
+  "whyItMatters": "Paraguay no tiene salida al mar y paga eso en cada contenedor que exporta. El corredor es la apuesta para cambiarlo: una ruta propia hacia los puertos del Pacífico. Por eso el dato que importa no es el puente terminado sino el kilómetro que falta: un corredor funciona entero o no funciona.",
+  "timeline": [
+    {
+      "date": "2026-05-26",
+      "title": "La escala del proyecto",
+      "text": "Más de 1.100 millones de dólares para conectar el Atlántico con el Pacífico entre Brasil, Paraguay, Argentina y Chile.",
+      "sourceId": "ccpb_corredor"
+    },
+    {
+      "date": "2026-06-23",
+      "title": "Se unen las márgenes",
+      "text": "Últimos trabajos de unión del puente entre Carmelo Peralta y Porto Murtinho.",
+      "sourceId": "margenes"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Los accesos, al 23%",
+      "text": "El avance de las obras de acceso del lado paraguayo queda muy por detrás del puente.",
+      "sourceId": "accesos23"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "El lote 3, al 47,5%",
+      "text": "El Ministerio de Obras Públicas informa el avance y reconoce la reprogramación por lluvias.",
+      "sourceId": "lote3"
+    },
+    {
+      "date": "2026-12-31",
+      "title": "La fecha prevista de habilitación",
+      "upcoming": true,
+      "text": "2026 era el año anunciado para habilitar el puente. Con los accesos al 23%, es la fecha a mirar.",
+      "sourceId": "ccpb_corredor"
+    }
+  ],
+  "suggestedQuestions": [
+    "¿Cómo viene la Bioceánica?",
+    "¿Cuándo se habilita el puente?",
+    "¿Qué falta del lado paraguayo?",
+    "Contame el hilo de la Bioceánica"
+  ],
+  "image": {
+    "src": "",
+    "alt": "El Puente de la Bioceánica sobre el río Paraguay, entre Carmelo Peralta y Porto Murtinho",
+    "credit": "",
+    "pending": "Falta la foto de archivo del Grupo"
+  },
+  "sources": [
+    {
+      "id": "accesos23",
+      "name": "Accesos al Puente de la Bioceánica alcanzan 23% de avance en Carmelo Peralta",
+      "type": "press",
+      "publisher": "La Nación (Paraguay)",
+      "publishedAt": "2026-09-29",
+      "url": "https://www.lanacion.com.py/negocios/2026/09/29/accesos-al-puente-de-la-bioceanica-alcanzan-23-de-avance-en-carmelo-peralta/"
+    },
+    {
+      "id": "lote3",
+      "name": "Corredor Bioceánico Capricornio: la PY 15 registra un avance del 47,5% en Paraguay",
+      "type": "press",
+      "publisher": "FM Alba",
+      "publishedAt": "2026-10-20",
+      "url": "https://fmalba.com.ar/corredor-bioceanico-capricornio-la-py-15-registra-un-avance-del-475-en-paraguay/"
+    },
+    {
+      "id": "margenes",
+      "name": "Ejecutan últimos trabajos para la unión de márgenes en el puente del Corredor Bioceánico",
+      "type": "press",
+      "publisher": "La Nación (Paraguay)",
+      "publishedAt": "2026-06-23",
+      "url": "https://www.lanacion.com.py/negocios/2026/06/23/ejecutan-ultimos-trabajos-para-la-union-de-margenes-en-el-puente-del-corredor-bioceanico/"
+    },
+    {
+      "id": "ccpb_corredor",
+      "name": "El corredor que cambiará la geografía económica",
+      "type": "press",
+      "publisher": "Cámara de Comercio Paraguayo Brasileña",
+      "publishedAt": "2026-05-26",
+      "url": "https://www.ccpb.org.py/2026/05/26/el-corredor-para-cambiar-la-geografia-economica/"
+    }
+  ],
+  "origen": {
+    "principal": {
+      "marca": "A24 Paraguay",
+      "formato": "texto"
+    },
+    "integra": [
+      {
+        "marca": "América Paraguay",
+        "formato": "video"
+      }
+    ]
+  }
+}

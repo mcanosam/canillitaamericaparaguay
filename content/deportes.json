@@ -1,0 +1,84 @@
+{
+  "type": "living_story",
+  "status": "active",
+  "isFiction": false,
+  "sections": [],
+  "beat": {
+    "role": "Cobertura",
+    "name": "Redacción Tu Canillita"
+  },
+  "id": "deportes_clausura",
+  "category": "Deportes",
+  "topic": "deportes",
+  "title": "Clausura: Olimpia ganó el clásico y se afirmó en la punta",
+  "subtitle": "2 a 0 a Cerro Porteño en la fecha 17. El torneo entra en la definición",
+  "lastUpdated": "2026-11-14T07:00:00-03:00",
+  "eventDate": "2026-10-31",
+  "readingTime": 3,
+  "shortSummary": "Olimpia venció 2 a 0 a Cerro Porteño en el clásico de la fecha 17 del Torneo Clausura y se reafirmó como líder. Es el partido que más mueve el calendario del fútbol paraguayo y llegó en el tramo donde el campeonato se define.",
+  "whatsappSummary": "⚽ *Olimpia 2 - Cerro Porteño 0*\nClásico de la fecha 17 del Clausura. Olimpia se reafirma como líder.\nEl torneo entra en la definición.",
+  "radioHeadline": "Y el clásico, que esta vez quedó para Olimpia.",
+  "radioSummary": "Olimpia le ganó dos a cero a Cerro Porteño en el clásico de la fecha diecisiete del Torneo Clausura, y se reafirmó como líder. Es el partido que ordena el calendario del fútbol paraguayo, y llegó justo en el tramo donde el campeonato se define. Con este resultado, Olimpia llega a las últimas fechas con la ventaja del que depende de sí mismo.",
+  "articleBody": [
+    {
+      "type": "paragraph",
+      "text": "Olimpia venció 2 a 0 a Cerro Porteño en el clásico correspondiente a la fecha 17 del Torneo Clausura 2026 y se reafirmó como líder del campeonato."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el partido que más mueve el calendario del fútbol paraguayo, y esta vez llegó en el tramo en que el torneo se define. El resultado deja a Olimpia dependiendo de sí mismo en las fechas que quedan."
+    }
+  ],
+  "confirmedFacts": [
+    {
+      "fact": "Olimpia venció 2 a 0 a Cerro Porteño en el clásico de la fecha 17 del Torneo Clausura 2026 y se reafirmó como líder.",
+      "date": "2026-10-31",
+      "sourceId": "libero_clasico"
+    }
+  ],
+  "pendingQuestions": [
+    "Si Olimpia sostiene la punta en las fechas que quedan.",
+    "Cómo queda la clasificación a copas internacionales al cierre del Clausura."
+  ],
+  "whyItMatters": "El clásico es el partido que para el país. Y este llegó en el momento del año en que un resultado deja de ser tres puntos y empieza a ser el campeonato.",
+  "timeline": [
+    {
+      "date": "2026-10-31",
+      "title": "Olimpia 2 - Cerro Porteño 0",
+      "text": "Clásico de la fecha 17. Olimpia se reafirma en la punta del Clausura.",
+      "sourceId": "libero_clasico"
+    }
+  ],
+  "suggestedQuestions": [
+    "¿Cómo salió el clásico?",
+    "¿Quién lidera el Clausura?"
+  ],
+  "image": {
+    "src": "",
+    "alt": "El clásico del fútbol paraguayo entre Olimpia y Cerro Porteño",
+    "credit": "",
+    "pending": "Falta la foto de archivo del Grupo"
+  },
+  "sources": [
+    {
+      "id": "libero_clasico",
+      "name": "Olimpia venció 2-0 a Cerro Porteño y se reafirma como líder del Torneo Clausura de Paraguay",
+      "type": "press",
+      "publisher": "Líbero",
+      "publishedAt": "2026-10-31",
+      "url": "https://libero.pe/futbol-internacional/2026/10/31/cerro-porteno-vs-olimpia-en-vivo-gratis-clasico-paraguayo-2026-via-tigo-sports-internet-3000149"
+    }
+  ],
+  "origen": {
+    "principal": {
+      "marca": "América Paraguay",
+      "formato": "video"
+    },
+    "integra": [
+      {
+        "marca": "A24 Paraguay",
+        "formato": "texto"
+      }
+    ]
+  }
+}

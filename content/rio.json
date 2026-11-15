@@ -1,0 +1,189 @@
+{
+  "type": "living_story",
+  "status": "active",
+  "isFiction": false,
+  "sections": [],
+  "beat": {
+    "role": "Cobertura",
+    "name": "Redacción Tu Canillita"
+  },
+  "id": "rio_bajante",
+  "category": "Clima y río",
+  "topic": "clima",
+  "title": "El río manda: la bajante obliga a cargar menos y encarece cada tonelada",
+  "subtitle": "Con los cauces en mínimos, las barcazas salen incompletas y la logística fluvial entró en modo de emergencia",
+  "lastUpdated": "2026-11-14T07:00:00-03:00",
+  "eventDate": "2026-09-23",
+  "readingTime": 4,
+  "shortSummary": "La bajante del río Paraguay obliga a reducir la carga de las embarcaciones, según el Centro de Armadores Fluviales y Marítimos. La logística fluvial entró en modo de emergencia y los armadores llegaron a sostener dragados privados para mantener los pasos. Para un país que saca casi todo por agua, cada centímetro del río es un costo por tonelada.",
+  "whatsappSummary": "🌊 *El río bajo encarece todo*\nLa bajante obliga a reducir la carga de las barcazas, según Cafym. La logística fluvial entró en modo de emergencia.\nLos armadores llegaron a sostener dragados privados para mantener los pasos.\nPara un país sin mar, cada centímetro del río es costo por tonelada.",
+  "radioHeadline": "Y el río, que esta temporada vuelve a mandar.",
+  "radioSummary": "Paraguay saca casi todo lo que exporta por agua. Por eso el nivel del río no es un dato meteorológico: es un costo. Con la bajante, las barcazas no pueden salir llenas. El Centro de Armadores Fluviales y Marítimos lo planteó en septiembre: hay que reducir la carga de las embarcaciones. Y cuando una barcaza sale al setenta por ciento, el flete por tonelada sube para todos los que están atrás en la cadena. La situación viene de arrastre. A principios de año los principales cauces ya estaban en niveles mínimos y los propios armadores sostuvieron dragados privados para mantener abiertos los pasos críticos. El combustible es la otra cara del mismo problema: lo que entra al país también entra por el río, así que una bajante fuerte toca el abastecimiento en los dos sentidos.",
+  "articleBody": [
+    {
+      "type": "paragraph",
+      "text": "Paraguay no tiene mar. Lo que exporta —soja, aceites, carne— sale mayormente por la hidrovía, y lo que importa, combustible incluido, entra por el mismo camino. Por eso el nivel del río no es un dato del clima: es un renglón del costo."
+    },
+    {
+      "type": "heading",
+      "text": "Cargar menos"
+    },
+    {
+      "type": "paragraph",
+      "text": "En septiembre, el Centro de Armadores Fluviales y Marítimos planteó que la bajante obliga a reducir la carga de las embarcaciones. Una barcaza que sale incompleta mueve la misma distancia con menos mercadería arriba: el flete por tonelada sube y el aumento se reparte hacia atrás en toda la cadena."
+    },
+    {
+      "type": "heading",
+      "text": "Modo emergencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "La logística fluvial entró en modo de emergencia. No es la primera vez en el año: en marzo los principales cauces ya sostenían niveles mínimos y los armadores apoyaron con dragado privado para mantener abiertos los pasos críticos."
+    },
+    {
+      "type": "heading",
+      "text": "También entra por ahí"
+    },
+    {
+      "type": "paragraph",
+      "text": "El combustible llega por la misma vía. Cuando los niveles se vuelven críticos, la discusión deja de ser solo exportadora y pasa a tocar el abastecimiento interno."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es la contracara del récord sojero: se produce más que nunca y el cuello de botella se corrió al agua. Mientras el corredor terrestre hacia el Pacífico no esté terminado, el río sigue siendo el único camino de salida a escala."
+    }
+  ],
+  "confirmedFacts": [
+    {
+      "fact": "La bajante del río Paraguay obliga a reducir la carga de las embarcaciones, según el Centro de Armadores Fluviales y Marítimos.",
+      "date": "2026-09-23",
+      "sourceId": "ln_cafym"
+    },
+    {
+      "fact": "La logística fluvial entró en modo de emergencia por la bajante.",
+      "date": "2026-10-10",
+      "sourceId": "nacional_emergencia"
+    },
+    {
+      "fact": "En marzo de 2026 los principales cauces mantenían niveles mínimos y los armadores apoyaron con dragado privado.",
+      "date": "2026-03-01",
+      "sourceId": "ln_dragado"
+    },
+    {
+      "fact": "Los niveles bajos del río plantean interrogantes sobre el abastecimiento de combustibles, que también ingresa por la vía fluvial.",
+      "date": "2026-10-05",
+      "sourceId": "surtidores_comb"
+    },
+    {
+      "fact": "La bajante tensiona la logística de toda la hidrovía, más allá de Paraguay.",
+      "date": "2026-10-24",
+      "sourceId": "globalports_hidrovia"
+    }
+  ],
+  "pendingQuestions": [
+    "Hasta cuándo se extiende la bajante y si llega a niveles críticos para el abastecimiento.",
+    "Si el dragado alcanza para sostener los pasos durante la temporada alta de embarques.",
+    "Cuánto suma al costo por tonelada exportada esta campaña.",
+    "Qué parte de la presión se descomprime cuando opere el corredor terrestre."
+  ],
+  "whyItMatters": "Es el tema que conecta a todos los demás: la soja récord, el costo del combustible, la apuesta por el corredor hacia el Pacífico. Mientras la salida sea el río, una bajante prolongada le pone precio a cada decisión económica del país.",
+  "timeline": [
+    {
+      "date": "2026-02-25",
+      "title": "Primeras alertas del año",
+      "text": "Se advierte por bajos niveles del río Paraguay y posibles efectos en la navegabilidad.",
+      "sourceId": "mil_alerta"
+    },
+    {
+      "date": "2026-03-01",
+      "title": "Dragado privado",
+      "text": "Con los cauces en mínimos, los armadores sostienen dragados para mantener los pasos.",
+      "sourceId": "ln_dragado"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Hay que cargar menos",
+      "text": "Cafym plantea que la bajante obliga a reducir la carga de las embarcaciones.",
+      "sourceId": "ln_cafym"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Modo emergencia",
+      "text": "La logística fluvial entra formalmente en emergencia por la bajante.",
+      "sourceId": "nacional_emergencia"
+    }
+  ],
+  "suggestedQuestions": [
+    "¿Cómo está el río?",
+    "¿Por qué encarece la bajante?",
+    "¿Afecta el abastecimiento de combustible?"
+  ],
+  "image": {
+    "src": "",
+    "alt": "Convoy de barcazas sobre el río Paraguay durante la bajante",
+    "credit": "",
+    "pending": "Falta la foto de archivo del Grupo"
+  },
+  "sources": [
+    {
+      "id": "ln_cafym",
+      "name": "Bajante del río Paraguay obliga a reducir carga de embarcaciones, según Cafym",
+      "type": "press",
+      "publisher": "La Nación (Paraguay)",
+      "publishedAt": "2026-09-23",
+      "url": "https://www.lanacion.com.py/negocios/2026/09/23/bajante-del-rio-paraguay-obliga-a-reducir-carga-de-embarcaciones-segun-cafym/"
+    },
+    {
+      "id": "nacional_emergencia",
+      "name": "Logística fluvial entra en modo de emergencia por bajante",
+      "type": "press",
+      "publisher": "El Nacional (Paraguay)",
+      "publishedAt": "2026-10-10",
+      "url": "https://elnacional.com.py/economia/logistica-fluvial-entra-modo-emergencia-bajante-n95083"
+    },
+    {
+      "id": "ln_dragado",
+      "name": "Principales cauces mantienen sus niveles mínimos y armadores apoyan con dragado privado",
+      "type": "press",
+      "publisher": "La Nación (Paraguay)",
+      "publishedAt": "2026-03-01",
+      "url": "https://www.lanacion.com.py/negocios/2026/03/01/principales-cauces-mantienen-sus-niveles-minimos-y-armadores-apoyan-con-dragado-privado/"
+    },
+    {
+      "id": "mil_alerta",
+      "name": "Alertan sobre bajos niveles del río Paraguay y posibles efectos en la navegabilidad",
+      "type": "press",
+      "publisher": "1000 Noticias",
+      "publishedAt": "2026-02-25",
+      "url": "https://1000noticias.com.py/2026/02/25/alertan-sobre-bajos-niveles-del-rio-paraguay-y-posibles-efectos-en-la-navegabilidad/"
+    },
+    {
+      "id": "surtidores_comb",
+      "name": "Los niveles críticos del río Paraguay ¿son una amenaza para el abastecimiento de combustibles?",
+      "type": "press",
+      "publisher": "Surtidores LATAM",
+      "publishedAt": "2026-10-05",
+      "url": "https://surtidoreslatam.com/los-niveles-criticos-del-rio-paraguay-son-una-amenaza-para-el-abastecimiento-de-combustibles/"
+    },
+    {
+      "id": "globalports_hidrovia",
+      "name": "La bajante del río Paraguay tensiona la logística regional en la Hidrovía",
+      "type": "press",
+      "publisher": "GlobalPorts",
+      "publishedAt": "2026-10-24",
+      "url": "https://www.globalports.com.ar/la-bajante-del-rio-paraguay-tensiona-la-logistica-regional-en-la-hidrovia/"
+    }
+  ],
+  "origen": {
+    "principal": {
+      "marca": "A24 Paraguay",
+      "formato": "texto"
+    },
+    "integra": [
+      {
+        "marca": "América Paraguay",
+        "formato": "video"
+      }
+    ]
+  }
+}
