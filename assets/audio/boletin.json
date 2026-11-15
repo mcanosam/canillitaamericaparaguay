@@ -1,0 +1,190 @@
+{
+  "url": "assets/audio/boletin.mp3",
+  "urlOpus": "assets/audio/boletin.ogg",
+  "voice": "es_AR-daniela-high",
+  "engine": "Piper TTS",
+  "version": "1.31.0",
+  "generatedAt": "2026-11-15T18:25:36.480Z",
+  "baseRate": 1,
+  "duration": 211.37,
+  "segments": [
+    {
+      "kind": "identificacion",
+      "text": "Tu Canillita, el boletín de Paraguay."
+    },
+    {
+      "kind": "saludo",
+      "text": "Son las tres y veinticinco de la tarde. Buenas tardes."
+    },
+    {
+      "kind": "titular",
+      "text": "Y vamos al caso que cambió el mes: Ueno."
+    },
+    {
+      "kind": "desarrollo",
+      "text": "Hagamos la película completa, porque esto no empezó en noviembre. En noviembre de dos mil veintitrés el Banco Central autorizó a la financiera Ueno a convertirse en banco. Empezó a operar en diciembre, con foco en cuentas digitales y pagos electrónicos. En dos mil veinticuatro absorbió a Visión Banco: autorización definitiva en junio, efectiva el primero de julio. Y fue creciendo en la administración de fondos públicos y previsionales. Para agosto de este año custodiaba unos ochocientos cincuenta millones de dólares de instituciones del Estado y del Instituto de Previsión Social. Ahora, el otro carril, el que no se veía. En septiembre de dos mil veinticinco concedió unos treinta y ocho coma nueve millones de dólares en préstamos a tres empresas que después se vincularon al mismo grupo económico. Según medios paraguayos, sin garantías reales. En octubre y en diciembre hubo más. Y entre enero y febrero, sobregiros por cerca de sesenta millones. Desde junio el regulador empezó a dejar constancia por escrito: observaciones, informes técnicos, memorandos. En septiembre el caso llegó al Congreso. El dos de noviembre el directorio del Banco Central aprobó por unanimidad iniciar la resolución. El tres la anunció: la solvencia había caído por debajo del cincuenta por ciento del mínimo exigido. Ese día las aplicaciones y las tarjetas dejaron de funcionar para casi tres millones de clientes. Renunció el presidente del Banco Central y la Fiscalía ordenó la detención de ocho directivos. Y de ahí en adelante fue política. El cuatro, treinta y cinco diputados presentaron el pedido de juicio político. El cinco, Horacio Cartes anunció que lo apoyaba, hubo manifestantes en el Congreso, y a la tarde Peña grabó un video y renunció. Dijo: ninguna persona está por encima del Paraguay. El Congreso no le aceptó la renuncia para poder avanzar igual con el juicio, fue destituido y detenido, y asumió Pedro Alliana. Hoy, catorce de noviembre, Alliana dice que se pagó a más del noventa y cinco por ciento de los ahorristas, unas un millón setecientas cuarenta mil personas, y que se pueden rescatar unos seiscientos millones de dólares en activos. La prioridad, dijo, es reponer los fondos previsionales."
+    },
+    {
+      "kind": "separador",
+      "text": "Seguimos."
+    },
+    {
+      "kind": "titular",
+      "text": "Y la Bioceánica, que avanza en una punta y se atrasa en la otra."
+    },
+    {
+      "kind": "separador",
+      "text": "Vamos con la que sigue."
+    },
+    {
+      "kind": "titular",
+      "text": "Y el contexto, para entender de qué estamos hablando cuando decimos Bioceánica."
+    },
+    {
+      "kind": "separador",
+      "text": "Y ahora, otro tema."
+    },
+    {
+      "kind": "titular",
+      "text": "Vaca Muerta, y la pieza que faltaba para que Argentina empiece a exportar."
+    },
+    {
+      "kind": "desarrollo",
+      "text": "Novedad de octubre. Llegaron las monoboyas. Son dos estructuras que vinieron desde Emiratos Árabes y que estuvieron demoradas un buen tiempo: entraron por el puerto de San Antonio Este. Sin ellas no hay forma de cargar un buque, así que era la pieza que faltaba. Ahora se descargan, se alistan y se llevan hasta Punta Colorada, donde se anclan a unos siete kilómetros de la costa, con seis anclas cada una, y se conectan con cañerías flexibles a las estructuras submarinas. Recordemos dónde estamos parados. La obra del caño, los cuatrocientos treinta y siete kilómetros entre Allen y Punta Colorada, terminó en agosto. Lo que faltaba era la terminal. Ahí ya está terminado el primer tanque, de ciento veinte mil metros cúbicos. La fecha que ordena todo es el quince de diciembre, cuando está prevista la conexión de la estación de Allen. Si eso llega, las primeras exportaciones salen en el primer cuatrimestre de dos mil veintisiete. Para nosotros el dato de fondo es otro: Paraguay importa todo el combustible que consume, y su principal proveedor es la Argentina."
+    },
+    {
+      "kind": "separador",
+      "text": "Seguimos."
+    },
+    {
+      "kind": "titular",
+      "text": "Asunción, y las cuentas que encontró la nueva intendencia."
+    },
+    {
+      "kind": "separador",
+      "text": "Vamos con la que sigue."
+    },
+    {
+      "kind": "titular",
+      "text": "La soja, que viene de la mejor campaña de la historia."
+    },
+    {
+      "kind": "separador",
+      "text": "Y ahora, otro tema."
+    },
+    {
+      "kind": "titular",
+      "text": "Y el río, que esta temporada vuelve a mandar."
+    },
+    {
+      "kind": "separador",
+      "text": "Y vamos a los deportes."
+    },
+    {
+      "kind": "deportes",
+      "text": "Y el hilo de Messi, que esta semana se cerró."
+    },
+    {
+      "kind": "separador",
+      "text": "Y vamos a los deportes."
+    },
+    {
+      "kind": "deportes",
+      "text": "Y el clásico, que esta vez quedó para Olimpia."
+    },
+    {
+      "kind": "cierre",
+      "text": "Fue Tu Canillita, que sigue la historia con vos. Buen día."
+    }
+  ],
+  "marks": [
+    {
+      "segment": 0,
+      "start": 0.0
+    },
+    {
+      "segment": 1,
+      "start": 2.547
+    },
+    {
+      "segment": 2,
+      "start": 5.652
+    },
+    {
+      "segment": 3,
+      "start": 8.261
+    },
+    {
+      "segment": 4,
+      "start": 115.162
+    },
+    {
+      "segment": 5,
+      "start": 116.457
+    },
+    {
+      "segment": 6,
+      "start": 120.266
+    },
+    {
+      "segment": 7,
+      "start": 122.07
+    },
+    {
+      "segment": 8,
+      "start": 126.749
+    },
+    {
+      "segment": 9,
+      "start": 128.585
+    },
+    {
+      "segment": 10,
+      "start": 133.03
+    },
+    {
+      "segment": 11,
+      "start": 184.185
+    },
+    {
+      "segment": 12,
+      "start": 185.472
+    },
+    {
+      "segment": 13,
+      "start": 188.972
+    },
+    {
+      "segment": 14,
+      "start": 190.787
+    },
+    {
+      "segment": 15,
+      "start": 194.067
+    },
+    {
+      "segment": 16,
+      "start": 195.939
+    },
+    {
+      "segment": 17,
+      "start": 198.864
+    },
+    {
+      "segment": 18,
+      "start": 200.811
+    },
+    {
+      "segment": 19,
+      "start": 203.491
+    },
+    {
+      "segment": 20,
+      "start": 205.466
+    },
+    {
+      "segment": 21,
+      "start": 208.255
+    }
+  ]
+}
