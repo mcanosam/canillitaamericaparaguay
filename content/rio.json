@@ -119,10 +119,10 @@
     "¿Afecta el abastecimiento de combustible?"
   ],
   "image": {
-    "src": "",
-    "alt": "Convoy de barcazas sobre el río Paraguay durante la bajante",
-    "credit": "",
-    "pending": "Falta la foto de archivo del Grupo"
+    "src": "assets/images/rio-bajante.svg",
+    "alt": "Corte del río Paraguay: el nivel habitual en línea de puntos y, más abajo, la superficie del agua con bajante, con una barcaza que flota sobre ella con menos carga. Al costado, la cadena: baja el río, se carga menos, cuesta más.",
+    "credit": "Gráfico: Tu Canillita",
+    "pending": ""
   },
   "sources": [
     {

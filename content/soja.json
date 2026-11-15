@@ -110,10 +110,10 @@
     "¿Cómo están los precios para el productor?"
   ],
   "image": {
-    "src": "",
-    "alt": "Camiones cargando soja en una planta de acopio del este paraguayo",
-    "credit": "",
-    "pending": "Falta la foto de archivo del Grupo"
+    "src": "assets/images/soja-campana.svg",
+    "alt": "Barra de la cosecha récord de soja: 11,5 millones de toneladas en total, de las cuales 7,9 millones ya se habían embarcado hasta septiembre de 2026.",
+    "credit": "Gráfico: Tu Canillita",
+    "pending": ""
   },
   "sources": [
     {

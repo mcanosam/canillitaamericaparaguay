@@ -13,7 +13,13 @@
       "status": "partial",
       "statusLabel": "Márgenes unidas, habilitación pendiente",
       "detail": "Unos 1.300 metros financiados por Itaipú Binacional. En junio de 2026 se ejecutaron los últimos trabajos para unir las dos márgenes. La habilitación estaba prevista para 2026.",
-      "keywords": ["el puente", "puente de la bioceanica", "carmelo peralta", "porto murtinho", "union de margenes"],
+      "keywords": [
+        "el puente",
+        "puente de la bioceanica",
+        "carmelo peralta",
+        "porto murtinho",
+        "union de margenes"
+      ],
       "sourceId": "margenes"
     },
     {
@@ -25,7 +31,12 @@
       "status": "partial",
       "statusLabel": "23% de avance (29 de septiembre de 2026)",
       "detail": "Es la parte que convierte una estructura sobre el río en una ruta por la que pasan camiones. A fines de septiembre de 2026 marcaba un 23% de avance: muy por detrás del puente al que tiene que conectarse.",
-      "keywords": ["los accesos", "accesos", "acceso al puente", "23"],
+      "keywords": [
+        "los accesos",
+        "accesos",
+        "acceso al puente",
+        "23"
+      ],
       "sourceId": "accesos23"
     },
     {
@@ -38,7 +49,14 @@
       "status": "partial",
       "statusLabel": "47,5% de ejecución física",
       "detail": "A cargo de CDD Construcciones. El Ministerio de Obras Públicas informó que las lluvias intensas y la alta humedad del terreno obligaron a reprogramar los trabajos.",
-      "keywords": ["lote 3", "lote tres", "pozo hondo", "mision la paz", "py15", "py 15"],
+      "keywords": [
+        "lote 3",
+        "lote tres",
+        "pozo hondo",
+        "mision la paz",
+        "py15",
+        "py 15"
+      ],
       "sourceId": "lote3"
     },
     {
@@ -51,7 +69,13 @@
       "status": "partial",
       "statusLabel": "Cuatro lotes en ejecución",
       "detail": "Unos 224 kilómetros divididos en cuatro lotes, con una inversión cercana a los 354 millones de dólares financiada principalmente por Fonplata, con apoyo del BID. Es el tramo que cruza el Chaco, donde construir es caro y lento.",
-      "keywords": ["tercer tramo", "mariscal estigarribia", "el chaco", "chaco", "cuatro lotes"],
+      "keywords": [
+        "tercer tramo",
+        "mariscal estigarribia",
+        "el chaco",
+        "chaco",
+        "cuatro lotes"
+      ],
       "sourceId": "ccpb_corredor"
     },
     {
@@ -63,7 +87,12 @@
       "status": "blocked",
       "statusLabel": "Proyectado, sin obra",
       "detail": "Es la puerta hacia el oeste y, por ahí, hacia los puertos chilenos. Queda como obra futura: está proyectado, no está en construcción.",
-      "keywords": ["puente con argentina", "segundo puente", "hacia chile", "puertos chilenos"],
+      "keywords": [
+        "puente con argentina",
+        "segundo puente",
+        "hacia chile",
+        "puertos chilenos"
+      ],
       "sourceId": "ccpb_corredor"
     }
   ],
@@ -176,10 +205,10 @@
     "¿Quién lo financia?"
   ],
   "image": {
-    "src": "",
-    "alt": "Mapa del Corredor Bioceánico entre el Atlántico y el Pacífico",
-    "credit": "",
-    "pending": "Falta la infografía del Grupo"
+    "src": "assets/images/bioceanico-esquema.svg",
+    "alt": "Esquema del Corredor Bioceánico en cinco puntos, del Pacífico en Chile al Atlántico en Brasil, pasando por Misión La Paz en Argentina y por Pozo Hondo y Carmelo Peralta en Paraguay. El tramo paraguayo es la PY15 a través del Chaco.",
+    "credit": "Gráfico: Tu Canillita",
+    "pending": ""
   },
   "sources": [
     {

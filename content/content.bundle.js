@@ -261,10 +261,10 @@ window.CANILLITA_CONTENT_BUNDLE = {
       "Contame el hilo de Ueno"
     ],
     "image": {
-      "src": "",
-      "alt": "Sede del Banco Central del Paraguay, donde se resolvió la intervención de Ueno Bank",
-      "credit": "",
-      "pending": "Falta la foto de archivo del Grupo"
+      "src": "assets/images/ueno-cronologia.svg",
+      "alt": "Línea de tiempo de Ueno Bank: cinco hitos entre noviembre de 2023 y junio de 2026, y un bloque final con los nueve días de noviembre de 2026 en los que el banco fue resuelto, renunció el Presidente y se pagó al 95% de los ahorristas.",
+      "credit": "Gráfico: Tu Canillita",
+      "pending": ""
     },
     "sources": [
       {
@@ -460,10 +460,10 @@ window.CANILLITA_CONTENT_BUNDLE = {
       "Contame el hilo de la Bioceánica"
     ],
     "image": {
-      "src": "",
-      "alt": "El Puente de la Bioceánica sobre el río Paraguay, entre Carmelo Peralta y Porto Murtinho",
-      "credit": "",
-      "pending": "Falta la foto de archivo del Grupo"
+      "src": "assets/images/bioceanico-avance.svg",
+      "alt": "Tres obras del corredor comparadas: el puente con las márgenes unidas en junio de 2026, los accesos del lado paraguayo con 23% de avance y el lote 3 de la PY15 con 47,5% de ejecución.",
+      "credit": "Gráfico: Tu Canillita",
+      "pending": ""
     },
     "sources": [
       {
@@ -719,10 +719,10 @@ window.CANILLITA_CONTENT_BUNDLE = {
       "¿Quién lo financia?"
     ],
     "image": {
-      "src": "",
-      "alt": "Mapa del Corredor Bioceánico entre el Atlántico y el Pacífico",
-      "credit": "",
-      "pending": "Falta la infografía del Grupo"
+      "src": "assets/images/bioceanico-esquema.svg",
+      "alt": "Esquema del Corredor Bioceánico en cinco puntos, del Pacífico en Chile al Atlántico en Brasil, pasando por Misión La Paz en Argentina y por Pozo Hondo y Carmelo Peralta en Paraguay. El tramo paraguayo es la PY15 a través del Chaco.",
+      "credit": "Gráfico: Tu Canillita",
+      "pending": ""
     },
     "sources": [
       {
@@ -1305,10 +1305,10 @@ window.CANILLITA_CONTENT_BUNDLE = {
       "¿Qué pasó con los desagües?"
     ],
     "image": {
-      "src": "",
-      "alt": "Calles de Asunción con residuos acumulados durante la crisis de recolección",
-      "credit": "",
-      "pending": "Falta la foto de archivo del Grupo"
+      "src": "assets/images/asuncion-cuentas.svg",
+      "alt": "Tres cifras de Asunción: 7,2 millones de dólares de deuda informados el 11 de noviembre de 2026, 4,5 millones ya pagados por los vecinos en desagües no ejecutados y 3.000 familias en riesgo de inundación.",
+      "credit": "Gráfico: Tu Canillita",
+      "pending": ""
     },
     "sources": [
       {
@@ -1477,10 +1477,10 @@ window.CANILLITA_CONTENT_BUNDLE = {
       "¿Cómo están los precios para el productor?"
     ],
     "image": {
-      "src": "",
-      "alt": "Camiones cargando soja en una planta de acopio del este paraguayo",
-      "credit": "",
-      "pending": "Falta la foto de archivo del Grupo"
+      "src": "assets/images/soja-campana.svg",
+      "alt": "Barra de la cosecha récord de soja: 11,5 millones de toneladas en total, de las cuales 7,9 millones ya se habían embarcado hasta septiembre de 2026.",
+      "credit": "Gráfico: Tu Canillita",
+      "pending": ""
     },
     "sources": [
       {
@@ -1666,10 +1666,10 @@ window.CANILLITA_CONTENT_BUNDLE = {
       "¿Afecta el abastecimiento de combustible?"
     ],
     "image": {
-      "src": "",
-      "alt": "Convoy de barcazas sobre el río Paraguay durante la bajante",
-      "credit": "",
-      "pending": "Falta la foto de archivo del Grupo"
+      "src": "assets/images/rio-bajante.svg",
+      "alt": "Corte del río Paraguay: el nivel habitual en línea de puntos y, más abajo, la superficie del agua con bajante, con una barcaza que flota sobre ella con menos carga. Al costado, la cadena: baja el río, se carga menos, cuesta más.",
+      "credit": "Gráfico: Tu Canillita",
+      "pending": ""
     },
     "sources": [
       {
@@ -2305,10 +2305,10 @@ window.CANILLITA_CONTENT_BUNDLE = {
       "¿Quién lidera el Clausura?"
     ],
     "image": {
-      "src": "",
-      "alt": "El clásico del fútbol paraguayo entre Olimpia y Cerro Porteño",
-      "credit": "",
-      "pending": "Falta la foto de archivo del Grupo"
+      "src": "assets/images/clasico-fecha17.svg",
+      "alt": "Marcador del clásico de la fecha 17 del Torneo Clausura 2026: Olimpia 2, Cerro Porteño 0.",
+      "credit": "Gráfico: Tu Canillita",
+      "pending": ""
     },
     "sources": [
       {

@@ -772,6 +772,44 @@ otras dos aunque GitHub Pages las sirva desde el mismo dominio.
 
 ---
 
+## v1.32.0 · 15-11-2026
+
+Las siete historias nuevas tenían el recuadro de "falta la foto". Ahora tienen
+imagen propia: siete gráficos en SVG, dibujados con los datos que ya estaban
+verificados en cada nota.
+
+- `ueno-cronologia.svg` — cuatro años de expansión en línea de tiempo y, al
+  costado, los nueve días de noviembre en los que se cayó todo. El bloque final
+  ocupa casi un cuarto del ancho a propósito.
+- `bioceanico-avance.svg` — las tres obras comparadas. El puente no lleva
+  barra: la fuente informa que las márgenes se unieron, no un porcentaje
+  medido, y dibujarle una barra sería inventar una medición.
+- `bioceanico-esquema.svg` — los cinco puntos del corredor, de océano a
+  océano. Es un esquema y no un mapa, y lo dice: trazar un mapa exigiría
+  geografía que la nota no tiene. El puente va rotulado "sin habilitar", no
+  "construido".
+- `asuncion-cuentas.svg` — 7,2 millones de deuda, 4,5 ya pagados por los
+  vecinos en desagües no ejecutados, 3.000 familias en riesgo.
+- `soja-campana.svg` — una sola barra de 11,5 millones de toneladas con los
+  7,9 ya embarcados marcados adentro. Dos barras separadas harían parecer que
+  son cosas distintas.
+- `rio-bajante.svg` — corte del río. El agua va debajo de su superficie y la
+  barcaza flota sobre ella: en la primera versión el casco quedaba en el aire.
+- `clasico-fecha17.svg` — el marcador del clásico.
+
+Criterio: se dibuja en vez de usar fotos de agencia porque las imágenes de
+prensa requieren licencia, y porque un gráfico hecho con los datos de la nota
+cuenta lo mismo y además se imprime bien. Todos usan el ocre de Tu Canillita,
+no el rojo del grupo, así que sirven igual en los dos temas. Cada cifra sale de
+los hechos confirmados del JSON de su historia; ninguna se agregó para el
+gráfico.
+
+- Queda una sola imagen con crédito pendiente: la foto del oleoducto en el hilo
+  de Vaca Muerta. El sitio la marca en rojo. La página de propuesta ahora dice
+  esto con precisión en vez de hablar de "las fotos" en general.
+
+---
+
 ## v1.6.0 · 07-08-2026
 
 **Contenido**

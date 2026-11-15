@@ -259,10 +259,10 @@
     "Contame el hilo de Ueno"
   ],
   "image": {
-    "src": "",
-    "alt": "Sede del Banco Central del Paraguay, donde se resolvió la intervención de Ueno Bank",
-    "credit": "",
-    "pending": "Falta la foto de archivo del Grupo"
+    "src": "assets/images/ueno-cronologia.svg",
+    "alt": "Línea de tiempo de Ueno Bank: cinco hitos entre noviembre de 2023 y junio de 2026, y un bloque final con los nueve días de noviembre de 2026 en los que el banco fue resuelto, renunció el Presidente y se pagó al 95% de los ahorristas.",
+    "credit": "Gráfico: Tu Canillita",
+    "pending": ""
   },
   "sources": [
     {
