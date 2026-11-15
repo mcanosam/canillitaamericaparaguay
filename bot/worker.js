@@ -182,7 +182,7 @@ export default {
       token: env.TELEGRAM_TOKEN,
       // El respaldo tiene que ser el sitio de ESTA edición: si apuntara al de
       // la otra, un SITIO mal cargado haría que el bot sirviera su audio.
-      sitio: env.SITIO || 'https://mcanosam.github.io/canillitapy'
+      sitio: env.SITIO || 'https://mcanosam.github.io/canillitaamericaparaguay'
     };
 
     let update;

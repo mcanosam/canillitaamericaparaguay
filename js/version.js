@@ -17,7 +17,7 @@
 
   var Canillita = global.Canillita = global.Canillita || {};
 
-  Canillita.version = '1.31.0';
+  Canillita.version = '1.31.1';
 
   /*
    * Qué edición es esta copia. Importa por una razón poco obvia: GitHub Pages

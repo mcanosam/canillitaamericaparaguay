@@ -372,26 +372,30 @@ con el archivo, gracias a las marcas de tiempo que calcula el generador.
 El proyecto es estático, así que el despliegue se configura una vez y después
 cada actualización es subir los archivos.
 
-1. Crear un repositorio **público** en GitHub llamado `tu-canillita-digital`.
-   El plan gratuito solo publica desde repositorios públicos. Acá no hay claves
-   ni datos personales, así que no es un problema.
+1. Crear un repositorio **público** en GitHub llamado `canillitaamericaparaguay`. El plan
+   gratuito solo publica desde repositorios públicos. Acá no hay claves ni
+   datos personales, así que no es un problema.
+
+   El nombre importa: es el que arma la dirección del sitio, y es el que ya
+   está escrito en `wrangler.toml`, en el respaldo de `bot/worker.js` y en el
+   código QR. Si usás otro, hay que cambiarlo en esos tres lugares.
 2. Subir el contenido de la carpeta. Se puede arrastrar los archivos desde la
    web de GitHub, sin usar la terminal. Con Git:
 
    ```bash
-   cd tu-canillita-digital
+   cd tu-canillita-america
    git init
    git add .
-   git commit -m "Tu Canillita"
+   git commit -m "Tu Canillita · Edición Grupo América"
    git branch -M main
-   git remote add origin https://github.com/TUUSUARIO/tu-canillita-digital.git
+   git remote add origin https://github.com/TUUSUARIO/canillitaamericaparaguay.git
    git push -u origin main
    ```
 
 3. En **Settings → Pages**, elegir *Deploy from a branch*, rama `main`, carpeta
    `/ (root)`. Guardar.
 4. En dos o tres minutos queda publicado en
-   `https://TUUSUARIO.github.io/tu-canillita-digital/`.
+   `https://TUUSUARIO.github.io/canillitaamericaparaguay/`.
 
 Después de la primera vez, actualizar es `git add . && git commit -m "..." &&
 git push`.

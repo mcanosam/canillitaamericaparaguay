@@ -14,7 +14,7 @@ main = "bot/worker.js"
 compatibility_date = "2026-08-01"
 
 [vars]
-SITIO = "https://mcanosam.github.io/canillitapy"
+SITIO = "https://mcanosam.github.io/canillitaamericaparaguay"
 
 [observability]
 enabled = true

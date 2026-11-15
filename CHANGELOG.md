@@ -753,10 +753,22 @@ otras dos aunque GitHub Pages las sirva desde el mismo dominio.
 
 **Despliegue**
 
-- Worker `canillita-bot-py`, sitio `mcanosam.github.io/canillitapy`, bot
+- Worker `canillita-bot-py`, sitio `mcanosam.github.io/canillitaamericaparaguay`, bot
   `t.me/tucanillitapy_bot`. Los tres nombres son distintos de los de las otras
   dos ediciones a propósito: con el mismo nombre de Worker, el primer push
   despliega encima del bot anterior.
+
+---
+
+## v1.31.1 · 15-11-2026
+
+- El repositorio quedó con el nombre `canillitaamericaparaguay`, así que la
+  dirección del sitio cambió. Se corrigió en los tres lugares que la tienen
+  escrita: `wrangler.toml`, el respaldo de `bot/worker.js` y el README.
+- Código QR regenerado. Verificado que decodifica a
+  `https://mcanosam.github.io/canillitaamericaparaguay/?grupo=1&demo=1`.
+- El nombre del Worker (`canillita-bot-py`) y el del bot (`tucanillitapy_bot`)
+  no cambian: no dependen del nombre del repositorio.
 
 ---
 

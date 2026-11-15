@@ -107,7 +107,7 @@ Buscá tu bot en Telegram por el usuario que elegiste y escribile `/start`.
 - **"Escuchar las noticias"** — manda el boletín como nota de voz, tomando el
   OGG que genera Piper.
 - **Respuestas con clip** — las respuestas grabadas llegan como nota de voz
-  además del texto. Son las que enumera `tools/build-respuestas.js`; hoy, 26.
+  además del texto. Son las que enumera `tools/build-respuestas.js`; hoy, 19.
 - **Botones** — los mismos `quickReplies` de la web, uno por fila.
 - **Fuentes y fechas** — se mantienen en cada respuesta, igual que en la web.
 
