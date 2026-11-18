@@ -2,138 +2,138 @@
   "voice": "es_AR-daniela-high",
   "engine": "Piper TTS",
   "version": "1.32.0",
-  "generatedAt": "2026-11-17T19:02:11.395Z",
+  "generatedAt": "2026-11-18T18:58:27.450Z",
   "answers": {
     "ueno": {
       "url": "assets/audio/respuestas/ueno.mp3",
       "urlOpus": "assets/audio/respuestas/ueno.ogg",
-      "duration": 42.75,
+      "duration": 42.56,
       "question": "Contame el hilo de Ueno",
       "intent": "ueno"
     },
     "ueno-banco": {
       "url": "assets/audio/respuestas/ueno-banco.mp3",
       "urlOpus": "assets/audio/respuestas/ueno-banco.ogg",
-      "duration": 37.34,
+      "duration": 37.47,
       "question": "¿Por qué cayó Ueno?",
       "intent": "ueno_banco"
     },
     "ueno-pena": {
       "url": "assets/audio/respuestas/ueno-pena.mp3",
       "urlOpus": "assets/audio/respuestas/ueno-pena.ogg",
-      "duration": 29.92,
+      "duration": 30.17,
       "question": "¿Por qué renunció Peña?",
       "intent": "ueno_pena"
     },
     "ueno-ahorristas": {
       "url": "assets/audio/respuestas/ueno-ahorristas.mp3",
       "urlOpus": "assets/audio/respuestas/ueno-ahorristas.ogg",
-      "duration": 37.31,
+      "duration": 37.47,
       "question": "¿Cobraron los ahorristas?",
       "intent": "ueno_ahorristas"
     },
     "bioceanico-actualidad": {
       "url": "assets/audio/respuestas/bioceanico-actualidad.mp3",
       "urlOpus": "assets/audio/respuestas/bioceanico-actualidad.ogg",
-      "duration": 80.27,
+      "duration": 80.33,
       "question": "¿Cómo viene la Bioceánica?",
       "intent": "bioceanico"
     },
     "bioceanico-historia": {
       "url": "assets/audio/respuestas/bioceanico-historia.mp3",
       "urlOpus": "assets/audio/respuestas/bioceanico-historia.ogg",
-      "duration": 64.38,
+      "duration": 63.99,
       "question": "¿Qué es el Corredor Bioceánico?",
       "intent": "bioceanico_historia"
     },
     "bioceanico-puente": {
       "url": "assets/audio/respuestas/bioceanico-puente.mp3",
       "urlOpus": "assets/audio/respuestas/bioceanico-puente.ogg",
-      "duration": 24.73,
+      "duration": 24.89,
       "question": "¿Cuándo se habilita el puente?",
       "intent": "bioceanico_puente"
     },
     "asuncion": {
       "url": "assets/audio/respuestas/asuncion.mp3",
       "urlOpus": "assets/audio/respuestas/asuncion.ogg",
-      "duration": 69.53,
+      "duration": 69.49,
       "question": "¿Qué pasa en Asunción?",
       "intent": "asuncion"
     },
     "soja": {
       "url": "assets/audio/respuestas/soja.mp3",
       "urlOpus": "assets/audio/respuestas/soja.ogg",
-      "duration": 66.47,
+      "duration": 66.68,
       "question": "¿Cómo viene la campaña de soja?",
       "intent": "soja"
     },
     "rio": {
       "url": "assets/audio/respuestas/rio.mp3",
       "urlOpus": "assets/audio/respuestas/rio.ogg",
-      "duration": 59.92,
+      "duration": 59.81,
       "question": "¿Cómo está el río?",
       "intent": "rio"
     },
     "deportes": {
       "url": "assets/audio/respuestas/deportes.mp3",
       "urlOpus": "assets/audio/respuestas/deportes.ogg",
-      "duration": 32.47,
+      "duration": 32.75,
       "question": "Ver deportes",
       "intent": "sports"
     },
     "deportes-proximo": {
       "url": "assets/audio/respuestas/deportes-proximo.mp3",
       "urlOpus": "assets/audio/respuestas/deportes-proximo.ogg",
-      "duration": 8.64,
+      "duration": 8.68,
       "question": "¿Cuándo juega Olimpia?",
       "intent": "sports_next"
     },
     "vacamuerta": {
       "url": "assets/audio/respuestas/vacamuerta.mp3",
       "urlOpus": "assets/audio/respuestas/vacamuerta.ogg",
-      "duration": 84.32,
+      "duration": 83.97,
       "question": "Contame lo de Vaca Muerta",
       "intent": "vacamuerta"
     },
     "vmos": {
       "url": "assets/audio/respuestas/vmos.mp3",
       "urlOpus": "assets/audio/respuestas/vmos.ogg",
-      "duration": 78.42,
+      "duration": 78.7,
       "question": "¿Qué es el VMOS?",
       "intent": "vmos"
     },
     "messi": {
       "url": "assets/audio/respuestas/messi.mp3",
       "urlOpus": "assets/audio/respuestas/messi.ogg",
-      "duration": 41.39,
+      "duration": 42.39,
       "question": "Contame el hilo de Messi",
       "intent": "messi"
     },
     "messi-final": {
       "url": "assets/audio/respuestas/messi-final.mp3",
       "urlOpus": "assets/audio/respuestas/messi-final.ogg",
-      "duration": 26.57,
+      "duration": 26.74,
       "question": "¿Cómo salió la final del Mundial 2026?",
       "intent": "messi_final"
     },
     "messi-retiro": {
       "url": "assets/audio/respuestas/messi-retiro.mp3",
       "urlOpus": "assets/audio/respuestas/messi-retiro.ogg",
-      "duration": 44.84,
+      "duration": 45.14,
       "question": "¿Messi se retira de la Selección?",
       "intent": "messi_retiro"
     },
     "messi-despedida": {
       "url": "assets/audio/respuestas/messi-despedida.mp3",
       "urlOpus": "assets/audio/respuestas/messi-despedida.ogg",
-      "duration": 35.5,
+      "duration": 35.88,
       "question": "¿Cómo fue la despedida de Messi?",
       "intent": "messi_despedida"
     },
     "fuera-de-alcance": {
       "url": "assets/audio/respuestas/fuera-de-alcance.mp3",
       "urlOpus": "assets/audio/respuestas/fuera-de-alcance.ogg",
-      "duration": 12.42,
+      "duration": 12.47,
       "question": "¿Qué pasa con el dólar?",
       "intent": "unknown"
     }
