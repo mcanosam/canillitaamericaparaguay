@@ -4,9 +4,9 @@
   "voice": "es_AR-daniela-high",
   "engine": "Piper TTS",
   "version": "1.32.0",
-  "generatedAt": "2026-11-18T18:56:55.996Z",
+  "generatedAt": "2026-11-19T18:56:04.974Z",
   "baseRate": 1,
-  "duration": 211.07,
+  "duration": 210.7,
   "segments": [
     {
       "kind": "identificacion",
@@ -104,87 +104,87 @@
     },
     {
       "segment": 1,
-      "start": 2.509
+      "start": 2.522
     },
     {
       "segment": 2,
-      "start": 5.831
+      "start": 5.79
     },
     {
       "segment": 3,
-      "start": 8.476
+      "start": 8.394
     },
     {
       "segment": 4,
-      "start": 115.142
+      "start": 114.7
     },
     {
       "segment": 5,
-      "start": 116.403
+      "start": 115.986
     },
     {
       "segment": 6,
-      "start": 120.124
+      "start": 119.683
     },
     {
       "segment": 7,
-      "start": 121.866
+      "start": 121.388
     },
     {
       "segment": 8,
-      "start": 126.471
+      "start": 125.985
     },
     {
       "segment": 9,
-      "start": 128.25
+      "start": 127.848
     },
     {
       "segment": 10,
-      "start": 132.593
+      "start": 132.105
     },
     {
       "segment": 11,
-      "start": 184.105
+      "start": 183.75
     },
     {
       "segment": 12,
-      "start": 185.349
+      "start": 185.026
     },
     {
       "segment": 13,
-      "start": 188.718
+      "start": 188.453
     },
     {
       "segment": 14,
-      "start": 190.523
+      "start": 190.185
     },
     {
       "segment": 15,
-      "start": 193.892
+      "start": 193.432
     },
     {
       "segment": 16,
-      "start": 195.634
+      "start": 195.274
     },
     {
       "segment": 17,
-      "start": 198.556
+      "start": 198.13
     },
     {
       "segment": 18,
-      "start": 200.489
+      "start": 200.106
     },
     {
       "segment": 19,
-      "start": 203.252
+      "start": 202.827
     },
     {
       "segment": 20,
-      "start": 205.154
+      "start": 204.758
     },
     {
       "segment": 21,
-      "start": 207.929
+      "start": 207.552
     }
   ]
 }
