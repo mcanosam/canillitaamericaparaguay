@@ -4,9 +4,9 @@
   "voice": "es_AR-daniela-high",
   "engine": "Piper TTS",
   "version": "1.32.0",
-  "generatedAt": "2026-11-20T18:28:11.933Z",
+  "generatedAt": "2026-11-21T17:15:50.928Z",
   "baseRate": 1,
-  "duration": 210.49,
+  "duration": 210.65,
   "segments": [
     {
       "kind": "identificacion",
@@ -14,7 +14,7 @@
     },
     {
       "kind": "saludo",
-      "text": "Son las tres y veintiocho de la tarde. Buenas tardes."
+      "text": "Son las dos y cuarto de la tarde. Buenas tardes."
     },
     {
       "kind": "titular",
@@ -104,87 +104,87 @@
     },
     {
       "segment": 1,
-      "start": 2.572
+      "start": 2.512
     },
     {
       "segment": 2,
-      "start": 5.64
+      "start": 5.362
     },
     {
       "segment": 3,
-      "start": 8.29
+      "start": 7.929
     },
     {
       "segment": 4,
-      "start": 115.033
+      "start": 114.706
     },
     {
       "segment": 5,
-      "start": 116.311
+      "start": 115.94
     },
     {
       "segment": 6,
-      "start": 120.055
+      "start": 119.764
     },
     {
       "segment": 7,
-      "start": 121.846
+      "start": 121.532
     },
     {
       "segment": 8,
-      "start": 126.403
+      "start": 126.186
     },
     {
       "segment": 9,
-      "start": 128.157
+      "start": 127.977
     },
     {
       "segment": 10,
-      "start": 132.335
+      "start": 132.272
     },
     {
       "segment": 11,
-      "start": 183.724
+      "start": 183.856
     },
     {
       "segment": 12,
-      "start": 184.958
+      "start": 185.131
     },
     {
       "segment": 13,
-      "start": 188.364
+      "start": 188.586
     },
     {
       "segment": 14,
-      "start": 190.166
+      "start": 190.352
     },
     {
       "segment": 15,
-      "start": 193.402
+      "start": 193.693
     },
     {
       "segment": 16,
-      "start": 195.18
+      "start": 195.483
     },
     {
       "segment": 17,
-      "start": 198.054
+      "start": 198.34
     },
     {
       "segment": 18,
-      "start": 199.951
+      "start": 200.23
     },
     {
       "segment": 19,
-      "start": 202.689
+      "start": 202.909
     },
     {
       "segment": 20,
-      "start": 204.614
+      "start": 204.811
     },
     {
       "segment": 21,
-      "start": 207.376
+      "start": 207.612
     }
   ]
 }
